@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+    <name>Theme Changer</name>
+    <version>300</version>
+    <defaultcat>Account Information</defaultcat>
+    <desc>Enables users to set themes settings for them self.</desc>
+    <authorname>Sentora Project</authorname>
+    <authoremail>info@sentora.org</authoremail>
+    <authorurl>http://sentora.org/</authorurl>
+</module>
