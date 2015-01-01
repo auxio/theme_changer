@@ -1,7 +1,7 @@
 Theme Changer
 =============
 
-* Version: 1.0.0BETA
+* Version: 1.0.0BETA2
 
 ##Description
 

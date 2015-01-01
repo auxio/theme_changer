@@ -6,7 +6,7 @@
             <@ ModuleName @>
         </div>
 
-        <div class="zmodule_desc" id="zmodule_desc_<@ ModuleName @>"><p><: This module allows you to configure your theme own settings. If the theme you select has multiple CSS versions you will be prompted for which theme 'version' you would like to use after you 'save' the changes. :></p></div>
+        <div class="zmodule_desc" id="zmodule_desc_<@ ModuleName @>"><p><: This module allows you to configure your own theme settings. If the theme you select has multiple CSS versions you will be prompted for which theme 'version' you would like to use after you 'save' the changes. :></p></div>
 
     </div>
 
